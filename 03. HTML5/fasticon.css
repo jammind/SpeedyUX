@@ -1,0 +1,17 @@
+body {
+    background-color: #000;
+}
+
+.Absolute {
+    position: absolute;
+}
+
+.Screen {
+    position: absolute;
+    width: auto;
+    height: 100%;
+}
+
+.Icon {
+  background-image: url(images/icons.jpg);
+}
